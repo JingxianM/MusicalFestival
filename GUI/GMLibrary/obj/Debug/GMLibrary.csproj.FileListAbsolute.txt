@@ -1,0 +1,44 @@
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GMLibrary\obj\Debug\GMLibrary.csprojAssemblyReference.cache
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GMLibrary\obj\Debug\GMLibrary.Properties.Resources.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GMLibrary\obj\Debug\GMLibrary.csproj.GenerateResource.cache
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GMLibrary\obj\Debug\GMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GMLibrary\bin\Debug\GMLibrary.exe.config
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GMLibrary\bin\Debug\GMLibrary.exe
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GMLibrary\bin\Debug\GMLibrary.pdb
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GMLibrary\bin\Debug\Google.Protobuf.dll
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GMLibrary\bin\Debug\MySql.Data.xml
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GMLibrary\obj\Debug\GMLibrary.csproj.CopyComplete
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GMLibrary\obj\Debug\GMLibrary.exe
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GMLibrary\obj\Debug\GMLibrary.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI\GMLibrary\bin\Debug\GMLibrary.exe.config
+\\vmware-host\Shared Folders\Desktop 2\GUI\GMLibrary\bin\Debug\GMLibrary.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI\GMLibrary\bin\Debug\GMLibrary.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI\GMLibrary\bin\Debug\Google.Protobuf.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI\GMLibrary\bin\Debug\MySql.Data.xml
+\\vmware-host\Shared Folders\Desktop 2\GUI\GMLibrary\obj\Debug\GMLibrary.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI\GMLibrary\obj\Debug\GMLibrary.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GMLibrary\obj\Debug\GMLibrary.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI\GMLibrary\obj\Debug\GMLibrary.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI\GMLibrary\obj\Debug\GMLibrary.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop 2\GUI\GMLibrary\obj\Debug\GMLibrary.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI\GMLibrary\obj\Debug\GMLibrary.pdb
+D:\GUI 2\GMLibrary\bin\Debug\GMLibrary.exe.config
+D:\GUI 2\GMLibrary\bin\Debug\GMLibrary.exe
+D:\GUI 2\GMLibrary\bin\Debug\GMLibrary.pdb
+D:\GUI 2\GMLibrary\bin\Debug\Google.Protobuf.dll
+D:\GUI 2\GMLibrary\bin\Debug\MySql.Data.xml
+D:\GUI 2\GMLibrary\obj\Debug\GMLibrary.csprojResolveAssemblyReference.cache
+D:\GUI 2\GMLibrary\obj\Debug\GMLibrary.Properties.Resources.resources
+D:\GUI 2\GMLibrary\obj\Debug\GMLibrary.csproj.GenerateResource.Cache
+D:\GUI 2\GMLibrary\obj\Debug\GMLibrary.exe
+D:\GUI 2\GMLibrary\obj\Debug\GMLibrary.pdb
+E:\GUI\GMLibrary\bin\Debug\GMLibrary.exe.config
+E:\GUI\GMLibrary\bin\Debug\GMLibrary.exe
+E:\GUI\GMLibrary\bin\Debug\GMLibrary.pdb
+E:\GUI\GMLibrary\bin\Debug\Google.Protobuf.dll
+E:\GUI\GMLibrary\bin\Debug\MySql.Data.xml
+E:\GUI\GMLibrary\obj\Debug\GMLibrary.csprojResolveAssemblyReference.cache
+E:\GUI\GMLibrary\obj\Debug\GMLibrary.Properties.Resources.resources
+E:\GUI\GMLibrary\obj\Debug\GMLibrary.csproj.GenerateResource.Cache
+E:\GUI\GMLibrary\obj\Debug\GMLibrary.exe
+E:\GUI\GMLibrary\obj\Debug\GMLibrary.pdb

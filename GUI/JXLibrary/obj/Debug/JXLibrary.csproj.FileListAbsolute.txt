@@ -1,0 +1,61 @@
+C:\Users\387232\Documents\Git\prop-grop18\GUI\JXLibrary\bin\Debug\JXLibrary.exe.config
+C:\Users\387232\Documents\Git\prop-grop18\GUI\JXLibrary\bin\Debug\JXLibrary.exe
+C:\Users\387232\Documents\Git\prop-grop18\GUI\JXLibrary\bin\Debug\JXLibrary.pdb
+C:\Users\387232\Documents\Git\prop-grop18\GUI\JXLibrary\bin\Debug\MySql.Data.dll
+C:\Users\387232\Documents\Git\prop-grop18\GUI\JXLibrary\bin\Debug\Google.Protobuf.dll
+C:\Users\387232\Documents\Git\prop-grop18\GUI\JXLibrary\bin\Debug\MySql.Data.xml
+C:\Users\387232\Documents\Git\prop-grop18\GUI\JXLibrary\obj\Debug\JXLibrary.csprojAssemblyReference.cache
+C:\Users\387232\Documents\Git\prop-grop18\GUI\JXLibrary\obj\Debug\JXLibrary.Properties.Resources.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\JXLibrary\obj\Debug\JXLibrary.csproj.GenerateResource.cache
+C:\Users\387232\Documents\Git\prop-grop18\GUI\JXLibrary\obj\Debug\JXLibrary.csproj.CoreCompileInputs.cache
+C:\Users\387232\Documents\Git\prop-grop18\GUI\JXLibrary\obj\Debug\JXLibrary.csproj.CopyComplete
+C:\Users\387232\Documents\Git\prop-grop18\GUI\JXLibrary\obj\Debug\JXLibrary.exe
+C:\Users\387232\Documents\Git\prop-grop18\GUI\JXLibrary\obj\Debug\JXLibrary.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI\JXLibrary\bin\Debug\JXLibrary.exe.config
+\\vmware-host\Shared Folders\Desktop 2\GUI\JXLibrary\bin\Debug\JXLibrary.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI\JXLibrary\bin\Debug\JXLibrary.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI\JXLibrary\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI\JXLibrary\bin\Debug\Google.Protobuf.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI\JXLibrary\bin\Debug\MySql.Data.xml
+\\vmware-host\Shared Folders\Desktop 2\GUI\JXLibrary\obj\Debug\JXLibrary.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI\JXLibrary\obj\Debug\JXLibrary.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\JXLibrary\obj\Debug\JXLibrary.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI\JXLibrary\obj\Debug\JXLibrary.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI\JXLibrary\obj\Debug\JXLibrary.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop 2\GUI\JXLibrary\obj\Debug\JXLibrary.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI\JXLibrary\obj\Debug\JXLibrary.pdb
+D:\GUI 2\JXLibrary\obj\Debug\JXLibrary.csprojResolveAssemblyReference.cache
+D:\GUI 2\JXLibrary\obj\Debug\JXLibrary.Properties.Resources.resources
+D:\GUI 2\JXLibrary\obj\Debug\JXLibrary.csproj.GenerateResource.Cache
+D:\GUI 2\JXLibrary\obj\Debug\JXLibrary.exe
+D:\GUI 2\JXLibrary\obj\Debug\JXLibrary.pdb
+D:\GUI 2\JXLibrary\bin\Debug\JXLibrary.exe.config
+D:\GUI 2\JXLibrary\bin\Debug\JXLibrary.exe
+D:\GUI 2\JXLibrary\bin\Debug\JXLibrary.pdb
+D:\GUI 2\JXLibrary\bin\Debug\MySql.Data.dll
+D:\GUI 2\JXLibrary\bin\Debug\Google.Protobuf.dll
+D:\GUI 2\JXLibrary\bin\Debug\MySql.Data.xml
+\\vmware-host\Shared Folders\Desktop 2\GUI %\JXLibrary\bin\Debug\JXLibrary.exe.config
+\\vmware-host\Shared Folders\Desktop 2\GUI %\JXLibrary\bin\Debug\JXLibrary.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI %\JXLibrary\bin\Debug\JXLibrary.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI %\JXLibrary\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI %\JXLibrary\bin\Debug\Google.Protobuf.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI %\JXLibrary\bin\Debug\MySql.Data.xml
+\\vmware-host\Shared Folders\Desktop 2\GUI %\JXLibrary\obj\Debug\JXLibrary.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI %\JXLibrary\obj\Debug\JXLibrary.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\JXLibrary\obj\Debug\JXLibrary.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI %\JXLibrary\obj\Debug\JXLibrary.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI %\JXLibrary\obj\Debug\JXLibrary.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop 2\GUI %\JXLibrary\obj\Debug\JXLibrary.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI %\JXLibrary\obj\Debug\JXLibrary.pdb
+E:\GUI\JXLibrary\bin\Debug\JXLibrary.exe.config
+E:\GUI\JXLibrary\bin\Debug\JXLibrary.exe
+E:\GUI\JXLibrary\bin\Debug\JXLibrary.pdb
+E:\GUI\JXLibrary\bin\Debug\MySql.Data.dll
+E:\GUI\JXLibrary\bin\Debug\Google.Protobuf.dll
+E:\GUI\JXLibrary\bin\Debug\MySql.Data.xml
+E:\GUI\JXLibrary\obj\Debug\JXLibrary.csprojResolveAssemblyReference.cache
+E:\GUI\JXLibrary\obj\Debug\JXLibrary.Properties.Resources.resources
+E:\GUI\JXLibrary\obj\Debug\JXLibrary.csproj.GenerateResource.Cache
+E:\GUI\JXLibrary\obj\Debug\JXLibrary.exe
+E:\GUI\JXLibrary\obj\Debug\JXLibrary.pdb

@@ -1,0 +1,216 @@
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.Add_Money.resources
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.Change_Amount.resources
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.Check_Out.resources
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.CheckIn.resources
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.Form1.resources
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.Guest_s_Info.resources
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.Loan_Items.resources
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.Rent_C_Spot.resources
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.Return_Items.resources
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.Sell_Items.resources
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.SellTicket.resources
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Fontys\2nd Sem\ProP\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\Phidget22.NET.dll
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\Phidget22.NET.pdb
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\Phidget22.NET.xml
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.Change_Amount.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.Check_Out.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.CheckIn.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.Form2.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.Guest_s_Info.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.Information.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.Loan_Items.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.Rent_C_Spot.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.Return_Items.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.Sell_Items.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.SellTicket.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\GMLibrary.exe
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\MySql.Data.dll
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\GMLibrary.pdb
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\GMLibrary.exe.config
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\MySql.Data.xml
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\AForge.Controls.dll
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\AForge.Imaging.dll
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\AForge.Video.dll
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\zxing.dll
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\obj\Debug\GUI.AddMoney.resources
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\JXLibrary.exe
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\JXLibrary.pdb
+C:\Users\387232\Documents\Git\prop-grop18\GUI\GUI\bin\Debug\JXLibrary.exe.config
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\GUI.exe.config
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\GUI.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\GUI.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\AForge.Controls.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\AForge.Imaging.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\AForge.Video.DirectShow.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\AForge.Video.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\GMLibrary.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\JXLibrary.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\Phidget22.NET.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\zxing.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\zxing.presentation.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\Google.Protobuf.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\GMLibrary.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\GMLibrary.exe.config
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\JXLibrary.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\JXLibrary.exe.config
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\MySql.Data.xml
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\Phidget22.NET.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\bin\Debug\Phidget22.NET.xml
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.AddMoney.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.Change_Amount.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.Check_Out.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.CheckIn.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.Form1.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.Form2.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.Guest_s_Info.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.Loan_Items.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.Rent_C_Spot.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.Return_Items.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.Sell_Items.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.SellTicket.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.pdb
+D:\GUI 2\GUI\bin\Debug\GUI.exe.config
+D:\GUI 2\GUI\bin\Debug\GUI.exe
+D:\GUI 2\GUI\bin\Debug\GUI.pdb
+D:\GUI 2\GUI\bin\Debug\AForge.Controls.dll
+D:\GUI 2\GUI\bin\Debug\AForge.Imaging.dll
+D:\GUI 2\GUI\bin\Debug\AForge.Video.DirectShow.dll
+D:\GUI 2\GUI\bin\Debug\AForge.Video.dll
+D:\GUI 2\GUI\bin\Debug\GMLibrary.exe
+D:\GUI 2\GUI\bin\Debug\JXLibrary.exe
+D:\GUI 2\GUI\bin\Debug\MySql.Data.dll
+D:\GUI 2\GUI\bin\Debug\zxing.dll
+D:\GUI 2\GUI\bin\Debug\zxing.presentation.dll
+D:\GUI 2\GUI\bin\Debug\Google.Protobuf.dll
+D:\GUI 2\GUI\bin\Debug\GMLibrary.pdb
+D:\GUI 2\GUI\bin\Debug\GMLibrary.exe.config
+D:\GUI 2\GUI\bin\Debug\JXLibrary.pdb
+D:\GUI 2\GUI\bin\Debug\JXLibrary.exe.config
+D:\GUI 2\GUI\bin\Debug\MySql.Data.xml
+D:\GUI 2\GUI\bin\Debug\Phidget22.NET.pdb
+D:\GUI 2\GUI\bin\Debug\Phidget22.NET.xml
+D:\GUI 2\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\GUI 2\GUI\obj\Debug\GUI.AddMoney.resources
+D:\GUI 2\GUI\obj\Debug\GUI.Change_Amount.resources
+D:\GUI 2\GUI\obj\Debug\GUI.Check_Out.resources
+D:\GUI 2\GUI\obj\Debug\GUI.CheckIn.resources
+D:\GUI 2\GUI\obj\Debug\GUI.Form1.resources
+D:\GUI 2\GUI\obj\Debug\GUI.Form2.resources
+D:\GUI 2\GUI\obj\Debug\GUI.Guest_s_Info.resources
+D:\GUI 2\GUI\obj\Debug\GUI.Information.resources
+D:\GUI 2\GUI\obj\Debug\GUI.Loan_Items.resources
+D:\GUI 2\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\GUI 2\GUI\obj\Debug\GUI.Rent_C_Spot.resources
+D:\GUI 2\GUI\obj\Debug\GUI.Return_Items.resources
+D:\GUI 2\GUI\obj\Debug\GUI.Sell_Items.resources
+D:\GUI 2\GUI\obj\Debug\GUI.SellTicket.resources
+D:\GUI 2\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\GUI 2\GUI\obj\Debug\GUI.exe
+D:\GUI 2\GUI\obj\Debug\GUI.pdb
+D:\GUI 2\GUI\bin\Debug\Phidget22.NET.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\GUI.exe.config
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\GUI.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\GUI.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\AForge.Controls.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\AForge.Imaging.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\AForge.Video.DirectShow.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\AForge.Video.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\GMLibrary.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\JXLibrary.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\Phidget22.NET.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\zxing.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\zxing.presentation.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\Google.Protobuf.dll
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\GMLibrary.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\GMLibrary.exe.config
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\JXLibrary.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\JXLibrary.exe.config
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\MySql.Data.xml
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\Phidget22.NET.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\bin\Debug\Phidget22.NET.xml
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.AddMoney.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.Change_Amount.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.Check_Out.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.CheckIn.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.Form1.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.Form2.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.Guest_s_Info.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.Information.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.Loan_Items.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.Rent_C_Spot.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.Return_Items.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.Sell_Items.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.SellTicket.resources
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.exe
+\\vmware-host\Shared Folders\Desktop 2\GUI %\GUI\obj\Debug\GUI.pdb
+E:\GUI\GUI\bin\Debug\GUI.exe.config
+E:\GUI\GUI\bin\Debug\GUI.exe
+E:\GUI\GUI\bin\Debug\GUI.pdb
+E:\GUI\GUI\bin\Debug\AForge.Controls.dll
+E:\GUI\GUI\bin\Debug\AForge.Imaging.dll
+E:\GUI\GUI\bin\Debug\AForge.Video.DirectShow.dll
+E:\GUI\GUI\bin\Debug\AForge.Video.dll
+E:\GUI\GUI\bin\Debug\GMLibrary.exe
+E:\GUI\GUI\bin\Debug\JXLibrary.exe
+E:\GUI\GUI\bin\Debug\MySql.Data.dll
+E:\GUI\GUI\bin\Debug\Phidget22.NET.dll
+E:\GUI\GUI\bin\Debug\zxing.dll
+E:\GUI\GUI\bin\Debug\zxing.presentation.dll
+E:\GUI\GUI\bin\Debug\Google.Protobuf.dll
+E:\GUI\GUI\bin\Debug\GMLibrary.pdb
+E:\GUI\GUI\bin\Debug\GMLibrary.exe.config
+E:\GUI\GUI\bin\Debug\JXLibrary.pdb
+E:\GUI\GUI\bin\Debug\JXLibrary.exe.config
+E:\GUI\GUI\bin\Debug\MySql.Data.xml
+E:\GUI\GUI\bin\Debug\Phidget22.NET.pdb
+E:\GUI\GUI\bin\Debug\Phidget22.NET.xml
+E:\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\GUI\GUI\obj\Debug\GUI.AddMoney.resources
+E:\GUI\GUI\obj\Debug\GUI.Change_Amount.resources
+E:\GUI\GUI\obj\Debug\GUI.Check_Out.resources
+E:\GUI\GUI\obj\Debug\GUI.CheckIn.resources
+E:\GUI\GUI\obj\Debug\GUI.Form1.resources
+E:\GUI\GUI\obj\Debug\GUI.Form2.resources
+E:\GUI\GUI\obj\Debug\GUI.Guest_s_Info.resources
+E:\GUI\GUI\obj\Debug\GUI.Information.resources
+E:\GUI\GUI\obj\Debug\GUI.Loan_Items.resources
+E:\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\GUI\GUI\obj\Debug\GUI.Rent_C_Spot.resources
+E:\GUI\GUI\obj\Debug\GUI.Return_Items.resources
+E:\GUI\GUI\obj\Debug\GUI.Sell_Items.resources
+E:\GUI\GUI\obj\Debug\GUI.SellTicket.resources
+E:\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\GUI\GUI\obj\Debug\GUI.exe
+E:\GUI\GUI\obj\Debug\GUI.pdb
+\\vmware-host\Shared Folders\Desktop 2\GUI\GUI\obj\Debug\GUI.Information.resources
